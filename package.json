@@ -6,7 +6,6 @@
   "dependencies": {
     "lodash": "^3.10.1",
     "q": "^1.4.1",
-    "request": "^2.60.0",
     "validator": "^4.0.2"
   },
   "devDependencies": {
