@@ -7,10 +7,11 @@ Summary
 =======
 A node.js library for communicating with [Pipedrive's](http://www.pipedrive.com/) REST API.
 
-You can install via npm:
+You can install via Github through npm:
 
-	npm install node-pipedrive --save
+	npm install bookbottles/node-pipedrive --save
 
+This is not published on npm yet.
 
 # Example
 
