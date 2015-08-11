@@ -1,0 +1,35 @@
+{
+  "name": "node-pipedrive",
+  "version": "0.0.1",
+  "description": "Pipedrive API Wrapper",
+  "main": "src/main.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "request": "^2.60.0",
+    "validator": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^0.24.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-eslint": "^17.1.0",
+    "load-grunt-config": "^0.17.2"
+  },
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bookbottles/node-pipedrive.git"
+  },
+  "author": "Anid Monsur <anid.monsur@bookbottles.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bookbottles/node-pipedrive/issues"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "homepage": "https://github.com/bookbottles/node-pipedrive"
+}
