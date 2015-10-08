@@ -1,6 +1,6 @@
 {
   "name": "node-pipedrive",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Pipedrive API Wrapper",
   "main": "src/main.js",
   "dependencies": {
